@@ -1,6 +1,6 @@
 # Ollama On AWS
 
-This repo is a companion to the YouTube video titled: [UNLEASHING the Power: Ollama + Llama 3 in the Cloud](https://youtu.be/rr-cEvLcOWw). It includes all commands used in the video.
+This repo is a companion to the YouTube video titled: [UNLEASHING the Power of Ollama + Llama 3 in the Cloud](https://youtu.be/rr-cEvLcOWw). It includes all commands used in the video.
 
 ### Be sure to shutdown your EC2 instance when you are no longer using it to avoid unneeded cost!
 
